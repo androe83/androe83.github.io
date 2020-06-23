@@ -9,5 +9,8 @@ Emmet Brickowski, later known by his alter-ego Radical Emmet Xtreme "Rex" Danger
 * very light-hearted
 * claims potted green plant as a pet
 
+As Emmet likes to sing:
+> Everything Is Awesome
+
 
 (source: https://en.wikipedia.org/wiki/Emmet_Brickowski)
