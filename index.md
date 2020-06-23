@@ -12,5 +12,6 @@ Emmet Brickowski, later known by his alter-ego Radical Emmet Xtreme "Rex" Danger
 As Emmet likes to sing:
 > Everything Is Awesome
 
+<img src="https://upload.wikimedia.org/wikipedia/en/9/91/Emmet_Brickowski.jpg"/>
 
 (source: https://en.wikipedia.org/wiki/Emmet_Brickowski)
